@@ -1,4 +1,4 @@
-#Herjohn S. Ruado
+# Herjohn S. Ruado
 
 ## About Me
 
@@ -18,17 +18,17 @@ Schematic diagram
 
 ##Skills
 
-Skill | Level |
+|Skill | Level |
 
 |--------|--------|
 
-C++ | Beginner |
+|C++ | Beginner |
 
-Arduino | Beginner
+|Arduino | Beginner
 
-PCB Design | Beginner
+|PCB Design | Beginner
 
-schematic design|Beginner|
+|schematic design|Beginner|
 
 ## Projects
 
