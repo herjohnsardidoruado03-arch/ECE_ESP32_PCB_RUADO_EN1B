@@ -18,11 +18,11 @@ Schematic diagram
 
 ##Skills
 
-|Skill | Level |
+|Skill|Level|
 
 |--------|--------|
 
-|C++ | Beginner |
+| C++ | Beginner |
 
 |Arduino | Beginner
 
