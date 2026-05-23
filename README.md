@@ -1,61 +1,62 @@
-# Herjohn S. Ruado
+# Herjohn Ruado
 
-## About Me
+## 🚀 About Me
+I am ruado  who enjoys electronics, Arduino projects, PCB design,  programming in C++. 
 
-I am Ruado I will enjoying a electronics , Arduino projects, PCB design C++, and creating simple design.
+---
 
-## Location Iraan Rizal Palawan
+## 📍 Location
+Iraan Rizal
 
-## Hobbies
+---
 
-playing online game
+## 🎯 Hobbies
+- 🥊 Boxing
+- ✈️ Travel
+- 💻 Coding
+- 🔌 Electronics Projects
+- 💡 Schematic diagram 
 
-Coding
 
-Electronics Projects
+---
 
-Schematic diagram
+## 💻 Skills
 
-##Skills
-
-|Skill|Level|
-
-| -------- | -------- |
-
+| Skill | Level |
+|--------|--------|
 | C++ | Beginner |
-
 | Arduino | Beginner |
-
 | PCB Design | Beginner |
+|schematic design|Beginner|
 
-| schematic design | Beginner |
+---
 
-## Projects
-
-### Arduino LED Blink
-
+## 📂 Projects
+### 🔹 Arduino LED Blink
 Simple Arduino LED blinking project using C++.
-
-EasyEDA schematic
-
+### 🔹 EasyEDA schematic 
 ESP32 Expansion board
 
-### PCB Design Practice Created PCB layouts using EasyEDA. ,Create Schematic using EasyEDA.
 
-Favorite Food
+### 🔹 PCB Design Practice
+Created PCB layouts using EasyEDA.
+,Create Schematic using EasyEDA.
 
+---
+
+## 🍜 Favorite Food
 - Adobo
+- Fried Chicken
 
-Fried Chicken
+---
 
-## future Goals
-
+## 🔮 future  Goals 
 - create my own name and design.
 
-## Contact
+## 📫 Contact
+- GitHub: Laurenzefronda-star
+- frondafamily002@gmail.com
 
-GitHub: Ruadoherjohn-star
+---
 
-Ruado family@gmail.com
-
-Thanks for visiting my portfolio
+⭐ Thanks for visiting my portfolio!
