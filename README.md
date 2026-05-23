@@ -24,9 +24,9 @@ Schematic diagram
 
 | C++ | Beginner |
 
-|Arduino | Beginner
+|Arduino | Beginner|
 
-|PCB Design | Beginner
+|PCB Design | Beginner|
 
 |schematic design|Beginner|
 
