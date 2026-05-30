@@ -1,21 +1,18 @@
-# Herjohn Ruado
+# Project Title
+ESP32 Expansion board 
 
-## 🚀 About Me
-I am ruado  who enjoys electronics, Arduino projects, PCB design,  programming in C++. 
+## Project Discription
+
 
 ---
 
-## 📍 Location
+## Features
 Iraan Rizal
 
 ---
 
-## 🎯 Hobbies
-- 🥊 Boxing
-- ✈️ Travel
-- 💻 Coding
-- 🔌 Electronics Projects
-- 💡 Schematic diagram 
+## Components
+
 
 
 ---
